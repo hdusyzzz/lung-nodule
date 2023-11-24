@@ -12,8 +12,10 @@ This is a long description.**
 
 ## lung nodule Papers
 + **On the performance of lung nodule detection, segmentation and classification**
-+ *Dongdong Gu, Guocai Liu, Zhong Xue*
-+ Computerized Medical Imaging and Graphics 2021 .[[PDF]](https://www.sciencedirect.com/science/article/pii/S0895611121000343)
+  
+ *Dongdong Gu, Guocai Liu, Zhong Xue*
+
+ Computerized Medical Imaging and Graphics 2021 .[[PDF]](https://www.sciencedirect.com/science/article/pii/S0895611121000343)
   
 
 
