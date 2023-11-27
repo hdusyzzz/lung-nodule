@@ -1,4 +1,4 @@
-### A summarization of lung nodule prediction in spatio-Temporal network
+### A summarization of lung nodule prediction in CT image
 
 ![](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)
@@ -15,7 +15,7 @@
 
   Computerized Medical Imaging and Graphics 2021 .[[PDF]](https://www.sciencedirect.com/science/article/pii/S0895611121000343)
 
-+ **Deep learning for time series classification: a review**
++ **⭐Deep learning for time series classification: a review**
 
   *Hassan Ismail Fawaz, Germain Forestier,Jonathan Weber,Lhassane Idoumghar,Pierre-Alain Muller*
 
