@@ -13,9 +13,9 @@ This is a long description.**
 ## Summarize
 + **On the performance of lung nodule detection, segmentation and classification**
   
- *Dongdong Gu, Guocai Liu, Zhong Xue*
+  *Dongdong Gu, Guocai Liu, Zhong Xue*
 
- Computerized Medical Imaging and Graphics 2021 .[[PDF]](https://www.sciencedirect.com/science/article/pii/S0895611121000343)
+  Computerized Medical Imaging and Graphics 2021 .[[PDF]](https://www.sciencedirect.com/science/article/pii/S0895611121000343)
 
 + **Deep learning for time series classification: a review**
 
@@ -24,11 +24,6 @@ This is a long description.**
   Data Mining and Knowledge Discovery 2019 .[[PDF]](https://link.springer.com/article/10.1007/s10618-019-00619-1)
   
 ## Prediction of pulmonary nodules combined with spatiotemporal networks
-+ **⭐Study on the Prediction Method of Long-term Benign and Malignant Pulmonary Lesions Based on LSTM**
-
-  *Xindong Liu,Mengnan Wang,Rukhma Aftab*
-  
-  Frontiers in Bioengineering and Biotechnology 2022 .[[PDF]](https://www.frontiersin.org/articles/10.3389/fbioe.2022.791424/full)
 + **⭐MSTS-Net: malignancy evolution prediction of pulmonary nodules from longitudinal CT images via multi-task spatial-temporal self-attention network**
 
   *Ping Song, Jiaxin Hou, Ning Xiao, Jun Zhao, Juanjuan Zhao, Yan Qiang & Qianqian Yang*
@@ -47,15 +42,53 @@ This is a long description.**
 
   Medical Image Computing and Computer Assisted Intervention 2022 .[[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-16431-6_46) [[Github]](https://github.com/liaw05/STMixer)
 
++ **Deep learning-based growth prediction for sub-solid pulmonary nodules on CT images**
+
+  *Ri-qiang Liao,An-wei Li,Hong-hong Yan, Jun-tao Lin, Si-yang Liu, Jing-wen Wang, Jian-sheng Fang, Hong-bo Liu, Yong-he Hou, Chao Song, Hui-fang Yang, Bin Li, Ben-yuan Jiang, Song Dong, Qiang Nie, Wen-zhao Zhong, Yi-long Wu, Xue-ning Yang*
+
+  Frontiers in Oncology 2022 .[[PDF]](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2022.1002953/full)
 
 ## Classification of benign and malignant pulmonary nodules
+
+
+## spatiotemporal networks
+
+
+## Encoder-Decoder
++ **Parameterized Gompertz-guided Morphological AutoEncoder for Predicting Pulmonary Nodule Growth**
+
+  *Jiansheng Fang, Jingwen Wang, Anwei Li, Yuguang Yan, Hongbo Liu, Jiajian Li, Huifang Yang, Yonghe Hou, Xuening Yang, Ming Yang ,Jiang Liu*
+
+  IEEE Transactions on Medical Imaging, 2023 .[[PDF]](https://ieeexplore.ieee.org/abstract/document/10189348/authors#authors)
+
+## 3D Convolutional Neural Network
++ **Pulmonary Nodule Detection Based on RPN with Squeeze-and-Excitation Block**
+
+  *Xiaoxi Lu, Xingyue Wang, Jiansheng Fang, Na Zeng, Yao Xiang, Jingfeng Zhang, Jianjun Zheng, Jiang Liu*
+
+  ICCCV '22: Proceedings of the 5th International Conference on Control and Computer Vision 2022 .[[PDF]](https://dl.acm.org/doi/abs/10.1145/3561613.3561627)
+
++ **Dual Convolutional Neural Network for Lung Nodule Classification**
+
+  *Pengxiang Shi, Wenhui Yu, Yang Liu, Zheng Qin*
+
+  International Joint Conference on Neural Networks 2021 .[[PDF]](https://ieeexplore.ieee.org/abstract/document/9533336)
+
+## LSTM
 + **Ensemble framework based on attributes and deep features for benign-malignant classification of lung nodule**
 
   *Jianping Qiao,Yanling Fan, Mowen Zhang, Kunlun Fang, Dengwang Li,Zhishun Wang*
 
   Biomedical Signal Processing and Control 2022 .[[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809422006711)
 
++ **⭐Study on the Prediction Method of Long-term Benign and Malignant Pulmonary Lesions Based on LSTM**
 
+  *Xindong Liu,Mengnan Wang,Rukhma Aftab*
+  
+  Frontiers in Bioengineering and Biotechnology 2022 .[[PDF]](https://www.frontiersin.org/articles/10.3389/fbioe.2022.791424/full)
+
+
+## Graph Convolutional Network
 
 
 ## Datasets
