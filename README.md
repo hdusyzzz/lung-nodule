@@ -22,21 +22,18 @@ This is a long description.**
 
   *Xindong Liu,Mengnan Wang,Rukhma Aftab*
   
-  Frontiers in Bioengineering and Biotechnology 2022 .[[PDF]]
-  (https://www.frontiersin.org/articles/10.3389/fbioe.2022.791424/full)
+  Frontiers in Bioengineering and Biotechnology 2022 .[[PDF]](https://www.frontiersin.org/articles/10.3389/fbioe.2022.791424/full)
 + **⭐MSTS-Net: malignancy evolution prediction of pulmonary nodules from longitudinal CT images via multi-task spatial-temporal self-attention network**
 
   *Ping Song, Jiaxin Hou, Ning Xiao, Jun Zhao, Juanjuan Zhao, Yan Qiang & Qianqian Yang*
 
-  International Journal of Computer Assisted Radiology and Surgery 2022 .[[PDF]]
-  (https://link.springer.com/article/10.1007/s11548-022-02744-7#article-info)
+  International Journal of Computer Assisted Radiology and Surgery 2022 .[[PDF]](https://link.springer.com/article/10.1007/s11548-022-02744-7#article-info)
 
 + **⭐Lung Nodule Malignancy Prediction From Longitudinal CT Scans With Siamese Convolutional Attention Networks**
 
   *Benjamin P. Veasey,Justin Broadhead,Michael Dahle,Albert Seow,Amir A. Amini*
 
-  IEEE Open Journal of Engineering in Medicine and Biology 2020 .[[PDF]]
-  (https://ieeexplore.ieee.org/document/9195164)
+  IEEE Open Journal of Engineering in Medicine and Biology 2020 .[[PDF]](https://ieeexplore.ieee.org/document/9195164)
 
 
 
