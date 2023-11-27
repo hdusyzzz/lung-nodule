@@ -5,9 +5,7 @@
 ![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=FFFFFF)
 
 
-This is an example file with maximal choices selected.
 
-This is a long description.**
 
 
 ## Summarize
@@ -48,7 +46,7 @@ This is a long description.**
 
   Frontiers in Oncology 2022 .[[PDF]](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2022.1002953/full)
 
-## Classification of benign and malignant pulmonary nodules
+
 
 
 ## spatiotemporal networks
