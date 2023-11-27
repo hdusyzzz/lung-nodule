@@ -10,12 +10,18 @@ This is an example file with maximal choices selected.
 This is a long description.**
 
 
-## lung nodule Papers
+## Summarize
 + **On the performance of lung nodule detection, segmentation and classification**
   
  *Dongdong Gu, Guocai Liu, Zhong Xue*
 
  Computerized Medical Imaging and Graphics 2021 .[[PDF]](https://www.sciencedirect.com/science/article/pii/S0895611121000343)
+
++ **Deep learning for time series classification: a review**
+
+  *Hassan Ismail Fawaz, Germain Forestier,Jonathan Weber,Lhassane Idoumghar,Pierre-Alain Muller*
+
+  Data Mining and Knowledge Discovery 2019 .[[PDF]](https://link.springer.com/article/10.1007/s10618-019-00619-1)
   
 ## Prediction of pulmonary nodules combined with spatiotemporal networks
 + **⭐Study on the Prediction Method of Long-term Benign and Malignant Pulmonary Lesions Based on LSTM**
@@ -35,6 +41,19 @@ This is a long description.**
 
   IEEE Open Journal of Engineering in Medicine and Biology 2020 .[[PDF]](https://ieeexplore.ieee.org/document/9195164)
 
++ **⭐Siamese Encoder-based Spatial-Temporal Mixer for Growth Trend Prediction of Lung Nodules on CT Scans**
+
+  *Jiansheng Fang, Jingwen Wang, Anwei Li, Yuguang Yan, Yonghe Hou, Chao Song, Hongbo Liu, Jiang Liu*
+
+  Medical Image Computing and Computer Assisted Intervention 2022 .[[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-16431-6_46) [[Github]](https://github.com/liaw05/STMixer)
+
+
+## Classification of benign and malignant pulmonary nodules
++ **Ensemble framework based on attributes and deep features for benign-malignant classification of lung nodule**
+
+  *Jianping Qiao,Yanling Fan, Mowen Zhang, Kunlun Fang, Dengwang Li,Zhishun Wang*
+
+  Biomedical Signal Processing and Control 2022 .[[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809422006711)
 
 
 
