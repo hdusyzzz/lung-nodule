@@ -50,6 +50,18 @@
 
 
 ## spatiotemporal networks
++ **PredRNN: A Recurrent Neural Network for Spatiotemporal Predictive Learning**
+
+  *Y Wang, H Wu, J Zhang, Z Gao, J Wang, SY Philip, M Long*
+
+  IEEE Transactions on Pattern Analysis and Machine Intelligence 2022 .[[PDF]](https://ieeexplore.ieee.org/abstract/document/9749915/)[[Github]](https://github.com/thuml/predrnn-pytorch)
+
++ **Video Summarization With Spatiotemporal Vision Transformer**
+
+  *TC Hsu, YS Liao, CR Huang*
+
+  IEEE Transactions on Image Processing 2023 .[[PDF]](https://ieeexplore.ieee.org/abstract/document/10124837/)[[Github]](https://github.com/nchucvml/STVT)
+
 
 
 ## Encoder-Decoder
@@ -57,7 +69,7 @@
 
   *Jiansheng Fang, Jingwen Wang, Anwei Li, Yuguang Yan, Hongbo Liu, Jiajian Li, Huifang Yang, Yonghe Hou, Xuening Yang, Ming Yang ,Jiang Liu*
 
-  IEEE Transactions on Medical Imaging, 2023 .[[PDF]](https://ieeexplore.ieee.org/abstract/document/10189348/authors#authors)
+  IEEE Transactions on Medical Imaging 2023 .[[PDF]](https://ieeexplore.ieee.org/abstract/document/10189348/authors#authors)
 
 ## 3D Convolutional Neural Network
 + **Pulmonary Nodule Detection Based on RPN with Squeeze-and-Excitation Block**
