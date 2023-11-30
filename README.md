@@ -46,10 +46,16 @@
 
   Frontiers in Oncology 2022 .[[PDF]](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2022.1002953/full)
 
+## Lung nodule dection
++ **Deep learning for the detection of benign and malignant pulmonary nodules in non-screening chest CT scans**
+
+  *Ward Hendrix, Nils Hendrix, Ernst T. Scholten, Mariëlle Mourits, Joline Trap-de Jong, Steven Schalekamp, Mike Korst, Maarten van Leuken, Bram van Ginneken, Mathias Prokop, Matthieu Rutten , Colin Jacobs 1*
+
+  nature  communications medicine 2023 .[[PDF]](https://www.nature.com/articles/s43856-023-00388-5)
 
 
 
-## spatiotemporal networks
+## Spatiotemporal networks
 + **PredRNN: A Recurrent Neural Network for Spatiotemporal Predictive Learning**
 
   *Y Wang, H Wu, J Zhang, Z Gao, J Wang, SY Philip, M Long*
