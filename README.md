@@ -20,6 +20,12 @@
   *Hassan Ismail Fawaz, Germain Forestier,Jonathan Weber,Lhassane Idoumghar,Pierre-Alain Muller*
 
   Data Mining and Knowledge Discovery 2019 .[[PDF]](https://link.springer.com/article/10.1007/s10618-019-00619-1)
+
++ **⭐Improving diagnosis and prognosis of lung cancer using vision transformers: a scoping review**
+
+  *Hazrat Ali, Farida Mohsen and Zubair Shah*
+
+   BMC Medical Imaging 2023 .[[PDF]](https://link.springer.com/article/10.1186/s12880-023-01098-z)[[WEB]](https://lung-cancer.onrender.com/)
   
 ## Prediction of pulmonary nodules combined with spatiotemporal networks
 + **⭐MSTS-Net: malignancy evolution prediction of pulmonary nodules from longitudinal CT images via multi-task spatial-temporal self-attention network**
@@ -121,3 +127,13 @@
 |              TCGA-LUSC & LUAD              |                       ISS groups                    |       Public      |         74/37; 152/69        |          https://wiki.cancerimagingarchive.net/display/Public/TCGA-LUSC(LUAD)          |
 |          SPIE-AAPM Lung CT Challeng        |                          AAPM                       |       Public      |             70/70            |     https://wiki.cancerimagingarchive.net/display/Public/SPIE-AAPM+Lung+CT+Challenge   |
 |             Lung CT Segmentation           |                 AAPM/LCTSC, MD Anderson             |       Public      |             60/60            |https://wiki.cancerimagingarchive.net/display/Public/Lung+CT+Segmentation+Challenge+2017|
+
+## growth predict contrast test
++ **Parameterized Gompertz-guided Morphological AutoEncoder for Predicting Pulmonary Nodule Growth**
+
+  *Jiansheng Fang , Jingwen Wang, Anwei Li, Yuguang Yan , Hongbo Liu, Jiajian Li, Huifang Yang, Yonghe Hou, Xuening Yang, Ming Yang, and Jiang Liu*
+
+  IEEE Transactions on Medical Imaging 2023 .[[PDF]](https://ieeexplore.ieee.org/abstract/document/10189348) [[Github]](https://github.com/liaw05/GM-AE)
+
+
+
