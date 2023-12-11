@@ -74,6 +74,24 @@
 
   IEEE Transactions on Image Processing 2023 .[[PDF]](https://ieeexplore.ieee.org/abstract/document/10124837/)[[Github]](https://github.com/nchucvml/STVT)
 
++ **TransVOD: End-to-End Video Object Detection With Spatial-Temporal Transformers**
+
+  *Qianyu Zhou , Xiangtai Li , Lu He, Yibo Yang , Guangliang Cheng , Yunhai Tong ,Lizhuang Ma, and Dacheng Tao*
+
+  IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE 2023 .[[PDF]](https://ieeexplore.ieee.org/document/9960850)[[Github]](https://github.com/SJTU-LuHe/TransVOD)
+
++ **Looking Beyond Two Frames: End-to-End Multi-Object Tracking Using Spatial and Temporal Transformers**
+
+  *Tianyu Zhu , Markus Hiller , Mahsa Ehsanpour, Rongkai Ma, Tom Drummond, Ian Reid, and Hamid Rezatoﬁghi*
+
+  IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE 2023 .[[PDF]](https://ieeexplore.ieee.org/document/9914676)[[Github]](https://github.com/alanzty/MO3TR)
+
++ **SAF-Net: A spatio-temporal deep learning method for typhoon intensity prediction**
+
+  *Guangning Xu, Kenghong Lin, Xutao Li, Yunming Ye*
+
+  Pattern Recognition Letters 2023 .[[PDF]](https://www.sciencedirect.com/science/article/pii/S0167865521004037?via%3Dihub)[[Github]](https://github.com/xuguangning1218/TI_Prediction)
+
 
 
 ## Encoder-Decoder
